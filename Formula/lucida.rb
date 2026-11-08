@@ -2,7 +2,6 @@
 class Lucida < Formula
   desc "Command-line tool for Lucida product analytics"
   homepage "https://lucidace.com/help/install-cli"
-  version "0.1.2"
   license "Apache-2.0"
 
   on_macos do
